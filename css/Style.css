@@ -1,0 +1,22 @@
+html
+{
+    font-size: 12px;
+    font-family: 'Open Sans';
+}
+
+h1
+{
+    font-size: 100pz;
+    text-align: center;
+    margin: 0;
+}
+
+img
+{
+    margin: 0;
+    border: 10px solid gray
+}
+body
+{
+    background-color: slategray;
+}
